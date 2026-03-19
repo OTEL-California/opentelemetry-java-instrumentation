@@ -203,3 +203,4 @@ jaxws-common:javaagent
 jaxws-cxf-3.0:javaagent-unit-tests
 jaxws-jws-api-1.1:javaagent
 jaxws-metro-2.2:javaagent
+jboss-logmanager-appender-1.1:javaagent
