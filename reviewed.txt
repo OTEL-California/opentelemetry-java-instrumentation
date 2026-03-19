@@ -220,3 +220,4 @@ jdbc:javaagent
 jetty-httpclient-9.2:library
 jetty-httpclient-9.2:javaagent
 jetty-httpclient-9.2:testing
+jetty-11.0:javaagent
