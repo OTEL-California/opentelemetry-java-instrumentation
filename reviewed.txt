@@ -400,3 +400,4 @@ redisson-3.17:javaagent
 redisson-common:javaagent
 redisson-common:testing
 resources:library
+restlet-1.1:javaagent
