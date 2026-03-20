@@ -375,3 +375,4 @@ quartz-2.0:javaagent
 quarkus-resteasy-reactive:quarkus3-testing
 quarkus-resteasy-reactive:quarkus2-testing
 quartz-2.0:library
+quartz-2.0:testing
