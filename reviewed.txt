@@ -359,3 +359,4 @@ oshi:library
 pekko-actor-1.0:javaagent
 payara:javaagent
 pekko-http-1.0:javaagent
+play-mvc-2.4:javaagent
