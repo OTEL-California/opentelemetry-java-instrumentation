@@ -356,3 +356,4 @@ oracle-ucp-11.2:testing
 oshi:javaagent
 oshi:testing
 oshi:library
+pekko-actor-1.0:javaagent
