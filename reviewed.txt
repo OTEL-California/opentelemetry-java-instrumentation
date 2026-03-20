@@ -230,3 +230,4 @@ jms-3.0:javaagent
 jms-common:bootstrap
 jms-common:javaagent
 jms-common:javaagent-unit-tests
+jmx-metrics:javaagent
