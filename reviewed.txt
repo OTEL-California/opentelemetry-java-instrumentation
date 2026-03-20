@@ -351,3 +351,4 @@ opentelemetry-extension-kotlin-1.0:javaagent
 opentelemetry-instrumentation-api:testing
 opentelemetry-instrumentation-api:javaagent
 oracle-ucp-11.2:library
+oracle-ucp-11.2:javaagent
