@@ -448,3 +448,4 @@ servlet-5.0:tomcat-testing
 servlet-common:bootstrap
 servlet-common:javaagent
 servlet-common:library
+spark-2.3:javaagent
