@@ -433,3 +433,4 @@ scala-fork-join-2.8:javaagent
 rxjava-common-3.0:testing
 servlet-2.2:javaagent
 servlet-3.0:javaagent
+servlet-3.0:javaagent-unit-tests
