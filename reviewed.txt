@@ -488,3 +488,4 @@ spring-web-3.1:javaagent
 spring-web-6.0:javaagent
 spring-web-3.1:library
 spring-webflux-5.0:testing
+spring-webflux-5.0:javaagent
