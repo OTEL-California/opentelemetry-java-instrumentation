@@ -248,8 +248,9 @@ readonly INSTRUMENTATIONS=(
   "redisson:redisson-metrics-2.3:javaagent:test"
   "redisson:redisson-metrics-3.18:javaagent:test"
   "redisson:redisson-metrics-3.26:javaagent:test"
-  "restlet:restlet-1.1:library:test"
-  "restlet:restlet-2.0:library:test"
+  # TODO: Re-enable Restlet when maven.restlet.talend.com is available.
+  # "restlet:restlet-1.1:library:test"
+  # "restlet:restlet-2.0:library:test"
   "rmi:javaagent:test"
   "rocketmq:rocketmq-client-4.8:javaagent:test"
   "rocketmq:rocketmq-client-4.8:javaagent:testExperimental"
